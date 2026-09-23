@@ -1,0 +1,5 @@
+name: cheaperinference_provider
+title: Cheaper Inference Provider
+description: Adds Cheaper Inference as an OpenAI-compatible chat provider in Agent Zero.
+version: 1.0.0
+always_enabled: true
